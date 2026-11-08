@@ -1,41 +1,31 @@
-AWS DEVOPS MASTER PROJECT
+# AWS DEVOPS MASTER PROJECT
 
-Project Name:
-End-to-End AWS DevOps Automation Platform
+## End-to-End AWS DevOps Automation Platform
 
-Technologies:
-1. Linux
-2. Git and GitHub
-3. Python
-4. Docker
-5. Terraform
-6. AWS
-7. Kubernetes
-8. Jenkins
-9. Ansible
-10. Prometheus
-11. Grafana
+### Objective
+Build an automated cloud application deployment and monitoring platform.
 
-Objective:
-To build an automated cloud application
-deployment and monitoring platform.AWS DEVOPS MASTER PROJECT
+### Technologies
+- Linux
+- Git and GitHub
+- Python
+- Docker
+- Terraform
+- AWS
+- Kubernetes
+- Jenkins
+- Ansible
+- Prometheus
+- Grafana
 
-Project: End-to-End AWS DevOps Automation Platform
+### Current Progress
+- AWS EC2 setup completed.
+- Linux and Git practice completed.
+- Docker application deployed.
+- Jenkins pipeline created.
 
-Technologies:
-Linux
-Git and GitHub
-Python
-Docker
-Terraform
-AWS
-Kubernetes
-Jenkins
-Ansible
-Prometheus
-Grafana
-
-Objective:
-Build an automated cloud application
-deployment and monitoring platform.
-
+### Future Implementation
+- Terraform infrastructure automation.
+- Ansible configuration management.
+- Kubernetes orchestration.
+- Prometheus and Grafana monitoring.
