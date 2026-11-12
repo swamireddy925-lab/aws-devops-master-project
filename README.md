@@ -29,3 +29,4 @@ Build an automated cloud application deployment and monitoring platform.
 - Ansible configuration management.
 - Kubernetes orchestration.
 - Prometheus and Grafana monitoring.
+Automatic Jenkins CI/CD webhook test
